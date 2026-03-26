@@ -1,4 +1,4 @@
-#!/Users/damodharpersonal/Desktop/Projects/ai-prd-generator/venv/bin/python3
+#!/Users/damodharpersonal/Desktop/Projects/product-lifecycle-management/venv/bin/python
 import sys
 from fastapi.cli import main
 if __name__ == '__main__':
